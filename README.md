@@ -18,9 +18,9 @@
 
 | Name | Roll Number |
 |---|---|
-| B. Praise Nancy | 23K81A66D4 |
-| G. Manogna | 23K81A66D9 |
-| M. Pavithra | 23K81A66J3 |
+| S. Manikanta | 24K85A6614 |
+| M. Sheshanth | 23K81A66F3 |
+| R. Shivarama Krishna | 23K81A66G2 |
 
 ---
 
